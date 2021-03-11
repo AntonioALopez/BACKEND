@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "keywords": ["heroku"],
+  "keywords": [
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -20,6 +22,7 @@
     "nodemon": "^2.0.7"
   },
   "engines": {
-    "node": "14.x"
+    "node": "15.10.0",
+    "npm": "7.5.6"
   }
 }
